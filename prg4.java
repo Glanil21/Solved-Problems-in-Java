@@ -1,4 +1,4 @@
-package Number_logics;
+
 public class prg4 {
     public static void main(String[] args) {
         int n =78958;

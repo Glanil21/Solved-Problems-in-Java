@@ -1,4 +1,4 @@
-package Number_logics;
+
 public class prg6 {
     public static int Reverse(int n){
         int ans = 0;

@@ -1,4 +1,4 @@
-package Number_logics;
+
 
 public class prg7 {
 static int mod(int x,int y) {

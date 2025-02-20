@@ -1,4 +1,4 @@
-package Number_logics;
+
 
 public class prg8 {
 	    static int gcd(int x, int y) {

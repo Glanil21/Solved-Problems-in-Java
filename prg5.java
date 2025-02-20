@@ -1,4 +1,3 @@
-package Number_logics;
 
 public class prg5 {
     public static int sum(int n) {

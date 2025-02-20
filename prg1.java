@@ -1,4 +1,4 @@
-package Number_logics;
+
 import java.util.*;
 public class prg1 {
     public static void main(String[] args) {
